@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
  📫 How to reach me 🙌
  
- Linkedin:https://www.linkedin.com/in/janani-pravallika-28122000/
+ Linkedin: www.linkedin.com/in/janani-pravallika-28122000/
 
 
 
