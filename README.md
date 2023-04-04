@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![image title](https://rushter.com/counter.svg)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<jananipravallika>)
+![GitHub Views](https://komarev.com/ghpvc/?username=jananipravallika)
