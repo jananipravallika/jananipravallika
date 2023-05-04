@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
+[![committers.top badge](https://user-badge.committers.top/india_private/USERNAME.svg)](https://user-badge.committers.top/india_private/jananipravallika)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=jananipravallika)
