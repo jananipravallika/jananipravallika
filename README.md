@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 📫 How to reach me 🙌
+## 📫 How to reach me 🙌
  
  Linkedin: www.linkedin.com/in/janani-pravallika-28122000/
 
+
+Here's a random Joke 😛
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jananipravallika)
