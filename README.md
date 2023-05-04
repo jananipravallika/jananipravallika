@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 ## Here's a random Joke 😛
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+### GitHub Stats
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jananipravallika&count_private=true&show_icons=true&include_all_commits=true" alt="Pranay's github stats" />
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananipravallika&layout=compact&hide_title=1&card_width=300&show_icons=true" alt="Top language used in my repos" />
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=jananipravallika)
