@@ -4,7 +4,7 @@ I am Janani Pravallika.
 
 Student | Computer Science
 
-A highly motivated and skilled computer science student seeking a challenging role in software engineering to utilize my technical skills and knowledge in a collaborative and dynamic environment. Looking for opportunities in the field of design and development. And ready to learn and work hard if given an opportunity
+A highly motivated and skilled computer science student seeking a challenging role in software engineering to utilize my technical skills and knowledge in a collaborative and dynamic environment. Looking for opportunities in the field of design and development. And ready to learn and work hard if given an opportunity.
 <!--
 **jananipravallika/jananipravallika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
