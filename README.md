@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 ## Fun fact😛
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+![GitHub Views](https://komarev.com/ghpvc/?username=jananipravallika)
+
 ## GitHub Stats ⚡
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jananipravallika&layout=compact&hide_title=1&card_width=300&show_icons=true" alt="Top language used in my repos" />
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=jananipravallika)
+
