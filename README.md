@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  Linkedin: www.linkedin.com/in/janani-pravallika-28122000/
 
 
-##  ⚡ Fun fact😛
+## Fun fact😛
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## GitHub Stats ⚡
